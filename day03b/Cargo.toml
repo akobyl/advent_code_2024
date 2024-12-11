@@ -1,0 +1,9 @@
+[package]
+name = "day03b"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+path = "src/main.rs"
